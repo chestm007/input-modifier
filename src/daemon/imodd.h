@@ -20,6 +20,7 @@
 #include <grp.h>
 #include <signal.h>
 #include <dirent.h>
+#include <pthread.h>
 #include <sys/inotify.h>
 #include <linux/input.h>
 #include <linux/uinput.h>
